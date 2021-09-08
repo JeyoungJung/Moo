@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.env
+steps.txt
+When_to_use_firebase.txt
+notes.txt
+/notes
