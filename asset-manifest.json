@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Moo/static/css/main.c0bc2d16.chunk.css",
+    "main.css": "/Moo/static/css/main.33c0e353.chunk.css",
     "main.js": "/Moo/static/js/main.6b73f2cc.chunk.js",
     "main.js.map": "/Moo/static/js/main.6b73f2cc.chunk.js.map",
     "runtime-main.js": "/Moo/static/js/runtime-main.6edf4fd1.js",
@@ -8,13 +8,13 @@
     "static/js/2.c52f7187.chunk.js": "/Moo/static/js/2.c52f7187.chunk.js",
     "static/js/2.c52f7187.chunk.js.map": "/Moo/static/js/2.c52f7187.chunk.js.map",
     "index.html": "/Moo/index.html",
-    "static/css/main.c0bc2d16.chunk.css.map": "/Moo/static/css/main.c0bc2d16.chunk.css.map",
+    "static/css/main.33c0e353.chunk.css.map": "/Moo/static/css/main.33c0e353.chunk.css.map",
     "static/js/2.c52f7187.chunk.js.LICENSE.txt": "/Moo/static/js/2.c52f7187.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6edf4fd1.js",
     "static/js/2.c52f7187.chunk.js",
-    "static/css/main.c0bc2d16.chunk.css",
+    "static/css/main.33c0e353.chunk.css",
     "static/js/main.6b73f2cc.chunk.js"
   ]
 }
