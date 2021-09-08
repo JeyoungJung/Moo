@@ -1,8 +1,7 @@
 import AuthForm from "components/AuthForm";
 import AuthSocial from "components/AuthSocial";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faHatCowboy } from "@fortawesome/free-brands-svg-icons";
-
+import { faHatCowboy } from "@fortawesome/free-solid-svg-icons";
 const Authorization = () => {
   return (
     <div className="authContainer">
