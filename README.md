@@ -13,7 +13,7 @@ Welcome to `Moo`, a real-time Social Networking Site (SNS) built with React and 
 Together, these technologies allow `Moo` to be a fast, efficient, and real-time SNS.
 
 ## Live Website
-Experience the real-time functionality of `Moo`! Visit our live website [here](https://jeyoungjung.github.io/Moo).
+Experience the real-time functionality of `Moo`! Visit the live website [here](https://jeyoungjung.github.io/Moo).
 
 ## Contact
 If you have any questions or would like to know more about `Moo`, feel free to reach out to me (jeyoung.jung@uwaterloo.ca)!
