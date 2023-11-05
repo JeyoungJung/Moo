@@ -1,6 +1,6 @@
 # Moo :cow:
 
-Welcome to `Moo`, a real-time Social Networking Site (SNS) built with React and Firebase. 
+Welcome to [Moo](https://jeyoungjung.github.io/Moo), a real-time Social Networking Site (SNS) built with React and Firebase. 
 
 ## Overview
 `Moo` is not your ordinary SNS. It is built with real-time functionality in mind. This means when you post something, other users can instantly see your posts without having to refresh their page. This leads to a more interactive and engaging experience for all users.
