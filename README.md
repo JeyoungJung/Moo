@@ -7,8 +7,8 @@ Welcome to `Moo`, a real-time Social Networking Site (SNS) built with React and 
 
 ## Technology
 `Moo` is built using the following technologies:
-- **React.js:** A JavaScript library for building user interfaces.
-- **Firebase:** A platform developed by Google for creating mobile and web applications. It was originally an independent company founded in 2011. In 2014, Google acquired the platform and it is now their flagship offering for app development.
+- **React.js:**
+- **Firebase:**
 
 Together, these technologies allow `Moo` to be a fast, efficient, and real-time SNS.
 
