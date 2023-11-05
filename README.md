@@ -7,8 +7,8 @@ Welcome to `Moo`, a real-time Social Networking Site (SNS) built with React and 
 
 ## Technology
 `Moo` is built using the following technologies:
-- **React.js:**
-- **Firebase:**
+- **React.js**
+- **Firebase**
 
 Together, these technologies allow `Moo` to be a fast, efficient, and real-time SNS.
 
